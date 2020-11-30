@@ -25,11 +25,7 @@ public class day9 {
                 c++;
             }
         }
-        if (c > 1)
-        {
-            return false;
-        }
-        return true;
+        return c <= 1;
     }
 
 }
