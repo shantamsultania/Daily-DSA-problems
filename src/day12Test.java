@@ -16,9 +16,6 @@ class day12Test {
         ob.peek();
         ob.getmax();
         ob.pop();
-
-
-
     }
 
 }
