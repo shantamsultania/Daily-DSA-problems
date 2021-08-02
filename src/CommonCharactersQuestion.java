@@ -6,14 +6,13 @@ import java.util.Map;
 public class CommonCharactersQuestion {
 
 
-    //Hi, here's your problem today. This problem was recently asked by Apple:
+    // Hi, here's your problem today. This problem was recently asked by Apple:
     //
-    //Given a list of strings, find the list of characters that appear in all strings.
+    // Given a list of strings, find the list of characters that appear in all strings.
     //
-    //Here's an example and some starter code:
-    //.
+    // Here's an example and some starter code:
     //
-    //['google', 'facebook', 'youtube']
+    // ['google', 'facebook', 'youtube']
     // ['e', 'o']
 
     public List<Character> commonCharacters(List<String> input){
