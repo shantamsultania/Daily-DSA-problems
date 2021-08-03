@@ -2,7 +2,6 @@
 
 This repository is a collection of daily DSA practice Question.
 
-### Made with ❤️by Shantam Sultania
 
 #### About me
 
