@@ -1,3 +1,5 @@
+package Soliutions;
+
 import java.util.HashSet;
 
 public class day7 {

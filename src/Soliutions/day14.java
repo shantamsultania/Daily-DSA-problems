@@ -1,3 +1,5 @@
+package Soliutions;
+
 import java.util.Arrays;
 
 public class day14 {

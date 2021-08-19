@@ -1,3 +1,5 @@
+package Soliutions;
+
 public class day11 {
 
     // Hi, here's your problem today. This problem was recently asked by Apple:
@@ -71,7 +73,7 @@ public class day11 {
         finder(root,n,res);
         return res;
     }
-    void finder(TreeNode root,int n,int []res)
+    void finder(TreeNode root, int n, int []res)
     {
 
         if (root != null)

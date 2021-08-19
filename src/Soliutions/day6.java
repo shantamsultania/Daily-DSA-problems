@@ -1,3 +1,5 @@
+package Soliutions;
+
 public class day6 {
 
 

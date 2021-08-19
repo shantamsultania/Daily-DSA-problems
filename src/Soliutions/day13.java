@@ -1,3 +1,5 @@
+package Soliutions;
+
 public class day13 {
 
     //Hi, here's your problem today. This problem was recently asked by LinkedIn:
