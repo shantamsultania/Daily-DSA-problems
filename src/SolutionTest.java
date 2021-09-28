@@ -18,4 +18,10 @@ class SolutionTest {
         assertEquals(7, questions.findSingleElement(a));
     }
 
+    @Test
+    public void testCountPrime() {
+        int n = 10;
+        assertEquals(4, questions.countPrimes(n));
+    }
+
 }
