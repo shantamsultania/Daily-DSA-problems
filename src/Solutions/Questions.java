@@ -3,6 +3,7 @@ package Solutions;
 import java.net.Inet4Address;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Stack;
 
 public class Questions {
 
@@ -131,6 +132,19 @@ public class Questions {
         }
 
         return index;
+
+    }
+
+
+    public int expressionCheck(String expression){
+
+        Stack<Character> st = new Stack<>();
+        int res = 0;
+
+
+
+
+        return res;
 
     }
 

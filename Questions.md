@@ -50,4 +50,11 @@ Return the leftmost pivot index. If no such index exists, return -1.
 Input: nums = [1,7,3,6,5,6]
 Output: 3
 
+#### Question 5 
 
+Given a mathematical expression with just single digits, plus signs, negative signs, and
+brackets, evaluate the expression. Assume the expression is properly formed.
+
+
+Input: - ( 3 + ( 2 - 1 ) )
+Output: -4
